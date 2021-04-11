@@ -1,1 +1,1 @@
-console.log('ti pedik')
+console.log('ti pidorka')
