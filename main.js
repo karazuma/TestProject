@@ -1,1 +1,1 @@
-console.log('ti pidorka')
+console.log('ti molodec')
